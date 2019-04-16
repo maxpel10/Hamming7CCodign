@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1554772697 source:c:\users\maxi\desktop\programas\hamming\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+
